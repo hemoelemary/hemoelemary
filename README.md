@@ -6,7 +6,7 @@
   <img src="https://copilot.microsoft.com/th/id/BCO.be64d0bf-f277-458a-a23d-fb98ac6e78c8.png" alt="Coding" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemoelemary&label=Profile%20views&color=0e75b6&style=flat" alt="hemoelemary" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="hemoelemary" /> </p>
 
 
 - 🔭 I’m currently working on **New Desktop System**
