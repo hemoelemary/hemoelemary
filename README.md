@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elemary</h1>
 <h3 align="center">A passionate Backend/desktop apps developer from Egypt</h3>
 
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.be64d0bf-f277-458a-a23d-fb98ac6e78c8.png" alt="Coding" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemoelemary&label=Profile%20views&color=0e75b6&style=flat" alt="hemoelemary" /> </p>
+
 
 - 🔭 I’m currently working on **New Desktop System**
 
