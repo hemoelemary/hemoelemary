@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://mostaql.com/u/Mohammedelemary/reviews](https://nafezly.com/u/MohamedElemary/portfolio)
+- 👨‍💻 All of my projects are available at [https://nafezly.com/u/MohamedElemary/portfolio](https://nafezly.com/u/MohamedElemary/portfolio)
 
 - 💬 Ask me about **Python**
 
